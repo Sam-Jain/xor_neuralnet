@@ -1,0 +1,17 @@
+1. XOR_back
+ Install pip python manager
+ use pip to install numpy library
+ pip install numpy
+
+ Run the file
+
+
+2. XOR_ff
+ Install neuralpy library using pip
+ pip install neuralpy
+ if system level dependencies are not installed ie an error like
+    'The following required packages can not be built: * freetype'
+    use:
+    apt-get install libfreetype6-dev
+
+ Run the file
