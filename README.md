@@ -22,12 +22,14 @@ Use an IDE or simply python command line to execute the programs.
 > [0.034269741]
 > [0.954815775]
 > [0.042835310]
+
 ### For Back Propagation Network
 > Output After Training
 > [0.00966449]
 > [0.00786506]
 > [0.99358898]
 > [0.99211957]
+
 ## Built with
 * PyCharm
 
